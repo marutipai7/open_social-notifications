@@ -309,7 +309,7 @@ import requests
 #     }
 # }
 
-HUMHUB_URL = "https://zulip.sizaf.com:5055"
+HUMHUB_URL = "https://humhub.sizaf.com"
 import os
 from dotenv import load_dotenv
 

@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 import time
 from bs4 import BeautifulSoup
 
-HUMHUB_URL = "https://zulip.sizaf.com:5055"
+HUMHUB_URL = "https://humhub.sizaf.com"
 USERNAME = "humhub"
 PASSWORD = "Humhub@2025"
 
